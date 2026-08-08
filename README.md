@@ -1,7 +1,9 @@
 # 📊 Customer Churn Prediction using ANN
 
 A Deep Learning project that predicts whether a bank customer is likely to churn using an Artificial Neural Network (ANN).
+## 🚀 Live Demo
 
+👉 [Open Customer Churn Prediction App](https://ann-classification-churn-project-0.streamlit.app/)
 ## 🚀 About the Project
 
 Customer churn means a customer leaving or stopping the use of a company's services.
